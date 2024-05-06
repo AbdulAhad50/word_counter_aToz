@@ -1,5 +1,3 @@
-To create a `README.md` file based on the provided code, you can explain what the code does and provide instructions for running it. Here's a simple template:
-
 ---
 
 # Word Counter App
